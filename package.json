@@ -1,17 +1,30 @@
 {
-  "name": "@acierto-incomodo/sgs-core",
-  "version": "1.0.0",
+  "name": "@stormgamesstudios/sgs-core",
+  "version": "1.0.1",
   "description": "Núcleo de funcionalidades para SGS",
   "main": "src/index.js",
   "type": "module",
   "scripts": {
     "export": "npm pack"
   },
+  "files": [
+    "src",
+    "README.md",
+    "extra"
+    "README.md"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acierto-incomodo/sgs-core-npm.git"
   },
-  "keywords": ["sgs", "core", "library"],
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "sgs",
+    "core",
+    "library"
+  ],
   "author": "StormGamesStudios <meliodas.aitor@gmail.com>",
   "license": "MIT",
   "engines": {
