@@ -1,0 +1,7 @@
+sgs-core/
+├── src/
+│   └── index.js
+├── .gitignore
+├── package.json
+├── README.md
+└── LICENSE

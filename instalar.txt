@@ -1,0 +1,2 @@
+Archivo: npm install ./ruta/al/archivo/sgs-core-1.0.0.tgz
+GitHub: npm install github:acierto-incomodo/sgs-core

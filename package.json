@@ -1,0 +1,16 @@
+{
+  "name": "@acierto-incomodo/sgs-core",
+  "version": "1.0.0",
+  "description": "Núcleo de funcionalidades para SGS",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "export": "npm pack"
+  },
+  "keywords": ["sgs", "core", "library"],
+  "author": "StormGamesStudios <meliodas.aitor@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.22.3"
+  }
+}
