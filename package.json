@@ -7,6 +7,10 @@
   "scripts": {
     "export": "npm pack"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acierto-incomodo/sgs-core-npm.git"
+  },
   "keywords": ["sgs", "core", "library"],
   "author": "StormGamesStudios <meliodas.aitor@gmail.com>",
   "license": "MIT",

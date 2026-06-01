@@ -1,0 +1,2 @@
+import { sgsCore } from '@acierto-incomodo/sgs-core';
+console.log(sgsCore.saludar());
