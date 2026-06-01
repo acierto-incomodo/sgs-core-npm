@@ -15,7 +15,7 @@ npm install @stormgamesstudios/sgs-core
 Puedes importar el núcleo de la librería directamente en tu proyecto:
 
 ```javascript
-import { sgsCore } from '@acierto-incomodo/sgs-core';
+import { sgsCore } from '@stormgamesstudios/sgs-core';
 
 console.log(sgsCore.saludar());
 // Salida: "SGS Core inicializado correctamente."
@@ -30,10 +30,10 @@ console.log(`Versión actual: ${sgsCore.version}`);
 
 ## 📦 Actualización
 
-Para actualizar a la última versión disponible en la rama principal de GitHub:
+Para actualizar a la última versión publicada en npm:
 
 ```bash
-npm update @acierto-incomodo/sgs-core
+npm update @stormgamesstudios/sgs-core
 ```
 
 ## 📄 Licencia

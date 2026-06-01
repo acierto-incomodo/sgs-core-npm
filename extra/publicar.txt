@@ -1,3 +1,5 @@
+EN GITHUB:
+
 1) Subir a releases manualmente.
 
 2) Subir a releases automaticamente:
@@ -5,3 +7,9 @@ git add .
 git commit -m "fix: corrección de errores"
 git tag v1.0.1
 git push origin main --tags
+
+
+
+EN NPMJS.COM:
+1) npm login
+2) npm publish --access public

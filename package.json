@@ -10,8 +10,8 @@
   "files": [
     "src",
     "README.md",
-    "extra"
-    "README.md"
+    "extra",
+    "example"
   ],
   "repository": {
     "type": "git",
